@@ -1,0 +1,9 @@
+Basha this is the command to create git file
+command is git
+touch file name
+to change staging command is
+git add f1 or .
+to commit that file command is
+git commit -m lable message that message u r creaated that will show in local
+final step is push\
+command is git push remoterepository
